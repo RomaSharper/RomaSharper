@@ -33,13 +33,21 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="c# logo">
   <img width="12">
+  <img src="https://skillicons.dev/icons?i=net" height="40" alt="dotnet logo">
+  <img width="12">
+  <img src="https://skillicons.dev/icons?i=rider" height="40" alt="rider logo">
+  <img width="12">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo">
   <img width="12">
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo">
   <img width="12">
   <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo">
   <img width="12">
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo">
+  <img width="12">
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo">
+  <img width="12">
+  <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="phpstorm logo">
   <img width="12">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo">
   <img width="12">
@@ -50,6 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo">
   <img width="12">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo">
+  <img width="12">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo">
 </div>
 
 <!--
