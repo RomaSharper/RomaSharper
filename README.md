@@ -16,13 +16,9 @@
   </a>
 </div>
 
-<hr>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=romanstalinist.romanstalinist&" alt="stats info">
 </div>
-
-<hr>
 
 <h3>👩‍💻 Обо мне</h3>
 
