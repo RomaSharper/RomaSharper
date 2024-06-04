@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-  <img height="300" width="600" src="https://i.pinimg.com/originals/00/d3/c4/00d3c4fa3400cdce4f9bddd236e43de5.gif" alt="heavy-weapons-guy">
+  <img height="300" width="600" src="https://i.pinimg.com/originals/00/d3/c4/00d3c4fa3400cdce4f9bddd236e43de5.gif" alt="tf2 heavy weapons guy agrees">
 </div>
 
 <h1 align="center">
@@ -12,14 +12,14 @@
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UC_ZTc_Ip4ZilZ-s-m-g4Glg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube-logo">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo">
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=romanstalinist.romanstalinist&" alt="stats">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=romanstalinist.romanstalinist&" alt="stats info">
 </div>
 
 ###
@@ -35,25 +35,25 @@
 <h3 align="left">🛠 Технологии:</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="c# logo">
+  <img width="12">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo">
+  <img width="12">
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo">
+  <img width="12">
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo">
+  <img width="12">
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo">
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo">
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo">
   <img width="12">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo">
   <img width="12">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo">
-  <img width="12">
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo">
-  <img width="12">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="c#-logo">
-  <img width="12">
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo">
   <img width="12">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo">
-  <img width="12">
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql-logo">
 </div>
 
 <!--
