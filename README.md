@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  Welcome to my personal home page
+  Welcome to my personal home page 👋
 </h1>
 
 <!--
