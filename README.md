@@ -1,7 +1,11 @@
-## Hi there 👋
+<br>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<div align="center">
+  <img height="300" width="600" src="https://i.pinimg.com/originals/00/d3/c4/00d3c4fa3400cdce4f9bddd236e43de5.gif" alt="heavy-weapons-guy">
+</div>
+
 <!--
+![Jokes Card](https://readme-jokes.vercel.app/api)
 **RomanStalinist/RomanStalinist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
