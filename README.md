@@ -4,9 +4,9 @@
   <img height="300" width="600" src="https://i.pinimg.com/originals/00/d3/c4/00d3c4fa3400cdce4f9bddd236e43de5.gif" alt="heavy-weapons-guy">
 </div>
 
-<h2 align="center">
+<h1 align="center">
   Welcome to my personal home page
-</h2>
+</h1>
 
 <!--
 ![Jokes Card](https://readme-jokes.vercel.app/api)
