@@ -4,6 +4,8 @@
   <img height="300" width="600" src="https://i.pinimg.com/originals/00/d3/c4/00d3c4fa3400cdce4f9bddd236e43de5.gif" alt="heavy-weapons-guy">
 </div>
 
+<h2>Hello, bro, welcome to my personal home page</h2>
+
 <!--
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 **RomanStalinist/RomanStalinist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
