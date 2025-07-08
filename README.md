@@ -1,4 +1,4 @@
-  
+<br/>
 
 <div align="center">
   <img height="300" width="600" src="https://i.pinimg.com/originals/00/d3/c4/00d3c4fa3400cdce4f9bddd236e43de5.gif" alt="tf2 heavy weapons guy agrees">
@@ -54,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo">
 </div>
 
-  
+<br/>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
