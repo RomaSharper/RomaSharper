@@ -54,6 +54,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo">
 </div>
 
+<br>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 Немного обо мне:
