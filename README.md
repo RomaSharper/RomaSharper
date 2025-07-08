@@ -54,18 +54,15 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo">
 </div>
 
-<!--
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-**RomanStalinist/RomanStalinist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Немного обо мне:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 В данный момент я работаю над `TwitchDescriptionUpdater`
+- 🌱 В данный момент я изучаю `Chrome Extensions`
+- 👯 Я хотел бы скооперироваться с `никем`
+- 🤔 Мне нужна помощь с `ничем`
+- 📫 Как до меня достучаться: https://t.me/roma_sharper
+- 😄 Местоимения: он/его
+- ⚡ Забавный факт: Инфаркты чаще случаются в понедельник.
+
