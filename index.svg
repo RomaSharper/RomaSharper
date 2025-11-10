@@ -1,139 +1,117 @@
-<svg
-  width="900"
-  height="650"
-  viewBox="0 0 900 650"
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
->
-  <foreignObject x="0" y="0" width="100%" height="100%">
-    <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0;padding:0;font-family:'Trebuchet MS',sans-serif;background:#2C1D0A;">
-      <style>
-        @font-face {
-          font-family: "TF2 Build";
-          src: url("https://cdn.jsdelivr.net/gh/romasharper/fonts/TF2Build.ttf") format("truetype");
-        }
+<svg fill="none" viewBox="0 0 1000 650" width="1000" height="650" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="
+      background: url('https://wiki.teamfortress.com/w/images/thumb/9/92/Background_2fort.png/1280px-Background_2fort.png');
+      width: 100%;
+      height: 100%;
+      font-family: 'Verdana', sans-serif;
+      color: #e1c699;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 40px;
+      box-sizing: border-box;
+    ">
 
-        body {
-          font-family: "TF2 Build", "Impact", sans-serif;
-          color: #f2b53c;
-          background: linear-gradient(180deg, #3a2b14 0%, #1b1206 100%);
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          justify-content: flex-start;
-          padding: 20px;
-        }
+      <h1 style="
+        color: #ff4719;
+        font-size: 48px;
+        margin-bottom: 0;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        font-weight: 900;
+      ">Howdy, Partner!</h1>
 
-        h1 {
-          color: #ff552e;
-          font-size: 42px;
-          text-transform: uppercase;
-          margin: 10px 0;
-          text-shadow: 2px 2px 0 #000;
-        }
+      <h2 style="
+        color: #ffcc66;
+        font-size: 22px;
+        font-weight: normal;
+        margin-top: 5px;
+      ">I'm <span style='color:#ff9933;font-weight:bold'>Roman</span> — The Backend Mercenary</h2>
 
-        h2 {
-          color: #ffdca8;
-          font-weight: 400;
-          margin: 0;
-        }
+      <!-- Divider line -->
+      <div style="width: 600px; height: 3px; background: #ff9933; margin: 20px 0;"></div>
 
-        table {
-          width: 85%;
-          border-collapse: collapse;
-          margin-top: 20px;
-          color: #e4d3b0;
-          font-size: 15px;
-          border: 3px solid #ff552e;
-          border-radius: 8px;
-          background: rgba(0, 0, 0, 0.3);
-        }
-
-        td, th {
-          padding: 10px;
-        }
-
-        tr:nth-child(even) {
-          background: rgba(60, 40, 20, 0.3);
-        }
-
-        .button {
-          background: #3a2c1c;
-          border: 3px solid #ff552e;
-          border-radius: 6px;
-          padding: 8px 16px;
-          color: #ffdca8;
-          font-weight: bold;
-          margin: 6px;
-          display: inline-block;
-          text-decoration: none;
-          transition: 0.15s;
-        }
-
-        .button:hover {
-          background: #ff552e;
-          color: #2c1d0a;
-          transform: scale(1.05);
-        }
-
-        footer {
-          margin-top: 24px;
-          font-size: 14px;
-          color: #d9c08c;
-          text-align: center;
-          font-style: italic;
-        }
-
-        .stats {
-          display: flex;
-          justify-content: center;
-          gap: 10px;
-          flex-wrap: wrap;
-          margin-top: 20px;
-        }
-
-        .stats img {
-          border-radius: 10px;
-          border: 2px solid #ff552e;
-        }
-      </style>
-
-      <h1>Howdy, Partner!</h1>
-      <h2>I'm <span style="color:#ff552e">Roman</span> — The Backend Mercenary</h2>
-
-      <table>
-        <tr>
-          <th>Mission</th>
-          <th>Stack</th>
-          <th>Result</th>
-        </tr>
-        <tr>
-          <td>Chrome Productivity Tools</td>
-          <td>JavaScript, Manifest V3</td>
-          <td>Improved UX and faster workflow</td>
-        </tr>
-        <tr>
-          <td>Twitch Description Updater</td>
-          <td>C#, .NET, REST API</td>
-          <td>Auto-sync Twitch channel info</td>
-        </tr>
+      <!-- Table Section -->
+      <table style="
+        border-collapse: collapse;
+        width: 80%;
+        text-align: left;
+        background: #2b1a0f;
+        border: 2px solid #ff6600;
+        color: #f0d6a3;
+        font-size: 16px;
+      ">
+        <thead style="background: #3b2414; color: #ffcc66;">
+          <tr>
+            <th style='padding: 10px; border-bottom: 2px solid #ff6600;'>Mission</th>
+            <th style='padding: 10px; border-bottom: 2px solid #ff6600;'>Stack</th>
+            <th style='padding: 10px; border-bottom: 2px solid #ff6600;'>Result</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style='padding: 10px; border-bottom: 1px solid #4b2f1b;'>Chrome Productivity Tools</td>
+            <td style='padding: 10px; border-bottom: 1px solid #4b2f1b;'>JavaScript, Manifest V3</td>
+            <td style='padding: 10px; border-bottom: 1px solid #4b2f1b;'>Improved UX &amp; faster workflow</td>
+          </tr>
+          <tr>
+            <td style='padding: 10px;'>Twitch Description Updater</td>
+            <td style='padding: 10px;'>C#, .NET, REST API</td>
+            <td style='padding: 10px;'>Auto-sync Twitch info</td>
+          </tr>
+        </tbody>
       </table>
 
-      <div class="stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=romasharper&theme=dark&title_color=F2B53C&icon_color=FF552E&text_color=E4D3B0&bg_color=151515" width="350" />
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=romasharper&theme=dark&ring=FF552E&fire=F2B53C&currStreakLabel=E4D3B0" width="350" />
+      <!-- Buttons Section -->
+      <div style="display: flex; gap: 12px; margin-top: 40px;">
+        <a href='#' style='
+          background: #3b2414;
+          border: 2px solid #ff6600;
+          padding: 10px 20px;
+          text-decoration: none;
+          color: #ffcc66;
+          text-transform: uppercase;
+          font-weight: bold;
+          letter-spacing: 1px;
+          box-shadow: inset -2px -2px 0 #2c1d12;
+          transition: background 0.2s, color 0.2s;
+        ' onmouseover="this.style.background='#ff6600';this.style.color='#2b1a0f'" onmouseout="this.style.background='#3b2414';this.style.color='#ffcc66'">
+          Steam
+        </a>
+        <a href='#' style='
+          background: #3b2414;
+          border: 2px solid #ff6600;
+          padding: 10px 20px;
+          text-decoration: none;
+          color: #ffcc66;
+          text-transform: uppercase;
+          font-weight: bold;
+          letter-spacing: 1px;
+          box-shadow: inset -2px -2px 0 #2c1d12;
+          transition: background 0.2s, color 0.2s;
+        ' onmouseover="this.style.background='#ff6600';this.style.color='#2b1a0f'" onmouseout="this.style.background='#3b2414';this.style.color='#ffcc66'">
+          GitHub
+        </a>
+        <a href='#' style='
+          background: #3b2414;
+          border: 2px solid #ff6600;
+          padding: 10px 20px;
+          text-decoration: none;
+          color: #ffcc66;
+          text-transform: uppercase;
+          font-weight: bold;
+          letter-spacing: 1px;
+          box-shadow: inset -2px -2px 0 #2c1d12;
+          transition: background 0.2s, color 0.2s;
+        ' onmouseover="this.style.background='#ff6600';this.style.color='#2b1a0f'" onmouseout="this.style.background='#3b2414';this.style.color='#ffcc66'">
+          Contact
+        </a>
       </div>
 
-      <div>
-        <a href="https://t.me/romasharper" class="button">Telegram</a>
-        <a href="mailto:romanstalinist@pm.me" class="button">Email</a>
-        <a href="https://github.com/romasharper" class="button">GitHub</a>
-      </div>
+      <!-- Footer -->
+      <p style='color:#704c2b;margin-top:50px;font-size:14px;'>"Every bug’s just a spy in disguise!"</p>
 
-      <footer>
-        “If something ain't exploding, it ain't deployed!”<br/>
-        <img src="https://media.tenor.com/wP_UMKohqLkAAAAC/tf2-scout.gif" width="300" />
-      </footer>
-    </body>
+    </div>
   </foreignObject>
 </svg>
