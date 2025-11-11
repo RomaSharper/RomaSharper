@@ -57,8 +57,8 @@
 <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
 
 ### RomaSharper
-- **Описание:** Персональный проект с набором утилит и учебных мини-проектов.
-- **Технологии:** C#, Java, PHP, MySQL, HTML, CSS, JavaScript
+- **Описание:** Персональная визитная карточка.
+- **Технологии:** Markdown, HTML, CSS
 - **Цель:** Практика, демонстрация навыков
 - **Статус:** Активно развивается
 
