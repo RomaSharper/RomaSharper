@@ -1,93 +1,101 @@
-# Добро пожаловать на мою страничку 👋
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=RomaSharper.RomaSharper" style="border-radius:12px"/>
-
 <div align="center">
-  <img src="https://i.pinimg.com/originals/00/d3/c4/00d3c4fa3400cdce4f9bddd236e43de5.gif" alt="tf2 heavy weapons guy agrees" width="600" height="300"/>
+
+<img src="https://media1.tenor.com/m/xQP2oDcQm5QAAAAC/killer-queen-bites-the-dust.gif" height="120"/>
+
+# 「 RomaSharper 」
+### *«Я хочу жить тихой, обычной жизнью...»*
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=RomaSharper.RomaSharper&color=ff1a1a&style=for-the-badge" />
+
 </div>
+
+<br>
+
+> *«Меня зовут Шарпер Рома. Мне 20 лет. Живу на северо-востоке Рыбинска, недалеко от Волжской набережной.  
+> Не женат, работаю в отделе бюджета «Криста». Каждый день я ложусь спать в 12 ночи и сплю не менее восьми часов.*
+>
+> *Перед сном я выпиваю чашку тёплого молока, делаю двадцать минут растяжки, забираюсь в постель – и уже не помню, что происходит дальше.  
+> Каждое утро я просыпаюсь без единой капли усталости или стресса, словно младенец...»*
+>
+> *– а по ночам моя рука сама выводит на клавиатуре то, чего утром я объяснить не могу.*
 
 ---
 
-## 🧑‍💻 Обо мне
+<h2 align="center">「 профиль 」</h2>
+
+<div align="center">
+
+| Параметр | Значение |
+|---|---|
+| 👤 Личность | **Роман** |
+| 🖋️ Почерк | Fullstack-разработка веб-приложений |
+| 🌙 Режим | Тихий, стабильный, незаметный – пока всё не заработает с первого раза |
+
+</div>
 
 <details>
-<summary>Нажмите, чтобы развернуть</summary>
+<summary>💭 Разведданные (нажми, чтобы развернуть)</summary>
+<br>
 
-Меня зовут **Роман**, я начинающий Backend-разработчик.  
-Я увлечён созданием надежного и масштабируемого программного обеспечения, а также изучением новых технологий.  
+Я – начинающий Fullstack-разработчик из России. Увлечён созданием надёжного и масштабируемого софта, а также изучением новых технологий.
 
-**Мои основные навыки включают:**  
-- C#, Java, PHP  
-- Работа с реляционными базами данных: Microsoft SQL Server и MySQL  
-- HTML, CSS, JavaScript и Python  
+**Основные навыки:**
+- TypeScript, C#, Java, PHP
+- Реляционные БД: Postgres, Microsoft SQL Server, MySQL
+- HTML, CSS, JavaScript, Python
 
-**Цели:**  
-- Создавать качественные программные решения  
-- Углубляться в микросервисную архитектуру  
-- Автоматизировать рабочие процессы и интеграции с API  
+**Цели:**
+- Писать код, который работает **с первого раза** – с первой правки, без права на второй черновик
+- Углубляться в микросервисную архитектуру
+- Автоматизировать рабочие процессы и интеграции с API
 
 </details>
 
 ---
 
-## 🛠 Технологии
+<h2 align="center">「 хроники 」</h2>
+
+### 📖 RomaSharper
+> *Страница уже написана – вы просто ещё не поняли, что читаете её прямо сейчас.*
+- **Описание:** Персональная визитная карточка
+- **Технологии:** Markdown, HTML, CSS
+- **Цель:** Практика, демонстрация навыков
+- **Статус:** 🟢 Обновлена
+
+### 📖 Sharpy
+> *Качественный мультиплатформенный сервис для заказа музыки через Twitch.*
+- **Описание:** Сервис автоматического обновления описания на Twitch
+- **Технологии:** TypeScript, Node.JS, REST API
+- **Цель:** Автоматизация рутинных задач для стримеров
+- **Статус:** 🟢 Активная разработка
+
+---
+
+<h2 align="center">「 связь 」 – Как меня найти </h2>
 
 <div align="center">
 
-| Язык / Технология | Иконка |
-|------------------|-------|
-| C# | <img src="https://skillicons.dev/icons?i=cs" height="30"/> |
-| .NET | <img src="https://skillicons.dev/icons?i=net" height="30"/> |
-| Java | <img src="https://skillicons.dev/icons?i=java" height="30"/> |
-| Spring | <img src="https://skillicons.dev/icons?i=spring" height="30"/> |
-| Hibernate | <img src="https://skillicons.dev/icons?i=hibernate" height="30"/> |
-| PHP | <img src="https://skillicons.dev/icons?i=php" height="30"/> |
-| MySQL | <img src="https://skillicons.dev/icons?i=mysql" height="30"/> |
-| HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/> |
-| CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/> |
-| JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> |
-| Python | <img src="https://skillicons.dev/icons?i=py" height="30"/> |
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/romasharper)
 
 </div>
 
 ---
 
-## 🔭 Проекты
+<h2 align="center">「 личное дело 」</h2>
 
-<div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
-
-### RomaSharper
-- **Описание:** Персональная визитная карточка.
-- **Технологии:** Markdown, HTML, CSS
-- **Цель:** Практика, демонстрация навыков
-- **Статус:** Активно развивается
-
-### Twitch Description Updater
-- **Описание:** Сервис автоматического обновления описания на Twitch.
-- **Технологии:** C#, .NET, REST API
-- **Цель:** Автоматизация рутинных задач для стримеров
-- **Статус:** Активная разработка
-
-</div>
+- Местоимения: он / его
+- Хобби: геройские шутеры от первого лица, программирование, эксперименты с новыми технологиями
+- Девиз: *«Я не хочу никаких неприятностей. Я просто хочу жить тихо. И чтобы код работал.»*
 
 ---
 
-## 📫 Контакты
+<div align="center">
 
-- Telegram: [https://t.me/romasharper](https://t.me/romasharper)  
-- YouTube: [https://www.youtube.com/@RomaSharper](https://www.youtube.com/@RomaSharper)  
+<img src="https://github-readme-stats.vercel.app/api?username=RomaSharper&show_icons=true&theme=red&hide_border=true" style="border-radius:12px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaSharper&layout=compact&theme=red&hide_border=true" style="border-radius:12px"/>
 
----
+<br><br>
 
-## 😄 Личная информация
+*«Я – самый спокойный человек в этом мире... но не трогай мой код.»*
 
-- Местоимения: он / его  
-- Хобби: шутеры от первого лица, программирование, эксперименты с новыми технологиями  
-- Забавный факт: инфаркты чаще случаются в понедельник 😄  
-
----
-
-<div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
-<img src="https://github-readme-stats.vercel.app/api?username=RomaSharper&show_icons=true&theme=tokyonight" style="border-radius:12px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaSharper&layout=compact&theme=tokyonight" style="border-radius:12px"/>
 </div>
