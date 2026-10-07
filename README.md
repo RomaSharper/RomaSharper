@@ -1,101 +1,78 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/xQP2oDcQm5QAAAAC/killer-queen-bites-the-dust.gif" height="120"/>
+# Роман · Fullstack-разработчик
 
-# 「 RomaSharper 」
-### *«Я хочу жить тихой, обычной жизнью...»*
+**Веб-приложения · API · автоматизация · интеграции**
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=RomaSharper.RomaSharper&color=ff1a1a&style=for-the-badge" />
+[![Telegram](https://img.shields.io/badge/Telegram-написать-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/romasharper)
+[![GitHub](https://img.shields.io/badge/GitHub-RomaSharper-181717?style=for-the-badge&logo=github)](https://github.com/RomaSharper)
 
 </div>
+
+---
+
+## Чем могу помочь
+
+Беру задачи **под ключ** или точечно:
+
+| Задача | Примеры |
+|--------|---------|
+| **Backend / API** | REST, авторизация, интеграции, фоновые задачи |
+| **Fullstack** | сайт / админка / личный кабинет с нуля |
+| **Автоматизация** | скрипты, боты, парсеры, связка сервисов |
+| **Доработки** | баги, фичи, рефакторинг существующего кода |
+
+Стек, с которым работаю каждый день и в подработках:
+
+**TypeScript · Node.js · C# · Java · Python**  
+**PostgreSQL · MS SQL · MySQL**  
+**HTML / CSS / JavaScript**
+
+Пишу так, чтобы код можно было поддерживать после сдачи — без «магии», с понятной структурой.
+
+---
+
+## Опыт
+
+**Krista** — отдел бюджета  
+Работаю с корпоративными системами: модели данных, формы, отчёты, интеграции.  
+Постоянная практика в продакшене (Java / React / SCSS / PostgreSQL, сложная доменная логика).
+
+---
+
+## Проекты
+
+### Sharpy
+Сервис заказа музыки для стримеров с интеграцией Twitch.  
+**Стек:** TypeScript, Node.js, React, TRPC, REST API  
+**Статус:** в активной разработке  
+
+> Автоматизация рутины для стримеров: заказы, очереди, API.
+
+### RomaSharper (этот профиль)
+Визитка и портфолио.  
+**Стек:** Markdown, HTML, CSS  
+
+---
+
+## Как обратиться
+
+1. Пишете в Telegram: задача, сроки.
+2. Уточняю объём, предлагаю подход и оценку.
+3. Делаю, показываю промежуточный результат, сдаю.
+
+**Формат:** удалённо · разовые задачи и небольшие проекты  
+**Связь:** [t.me/romasharper](https://t.me/romasharper)
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RomaSharper&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaSharper&layout=compact&theme=transparent&hide_border=true" height="160"/>
 
 <br>
 
-> *«Меня зовут Шарпер Рома. Мне 20 лет. Живу на северо-востоке Рыбинска, недалеко от Волжской набережной.  
-> Не женат, работаю в отделе бюджета «Криста». Каждый день я ложусь спать в 12 ночи и сплю не менее восьми часов.*
->
-> *Перед сном я выпиваю чашку тёплого молока, делаю двадцать минут растяжки, забираюсь в постель – и уже не помню, что происходит дальше.  
-> Каждое утро я просыпаюсь без единой капли усталости или стресса, словно младенец...»*
->
-> *– а по ночам моя рука сама выводит на клавиатуре то, чего утром я объяснить не могу.*
-
----
-
-<h2 align="center">「 профиль 」</h2>
-
-<div align="center">
-
-| Параметр | Значение |
-|---|---|
-| 👤 Личность | **Роман** |
-| 🖋️ Почерк | Fullstack-разработка веб-приложений |
-| 🌙 Режим | Тихий, стабильный, незаметный – пока всё не заработает с первого раза |
-
-</div>
-
-<details>
-<summary>💭 Разведданные (нажми, чтобы развернуть)</summary>
-<br>
-
-Я – начинающий Fullstack-разработчик из России. Увлечён созданием надёжного и масштабируемого софта, а также изучением новых технологий.
-
-**Основные навыки:**
-- TypeScript, C#, Java, PHP
-- Реляционные БД: Postgres, Microsoft SQL Server, MySQL
-- HTML, CSS, JavaScript, Python
-
-**Цели:**
-- Писать код, который работает **с первого раза** – с первой правки, без права на второй черновик
-- Углубляться в микросервисную архитектуру
-- Автоматизировать рабочие процессы и интеграции с API
-
-</details>
-
----
-
-<h2 align="center">「 хроники 」</h2>
-
-### 📖 RomaSharper
-> *Страница уже написана – вы просто ещё не поняли, что читаете её прямо сейчас.*
-- **Описание:** Персональная визитная карточка
-- **Технологии:** Markdown, HTML, CSS
-- **Цель:** Практика, демонстрация навыков
-- **Статус:** 🟢 Обновлена
-
-### 📖 Sharpy
-> *Качественный мультиплатформенный сервис для заказа музыки через Twitch.*
-- **Описание:** Сервис для заказа музыки с Twitch-интеграцией
-- **Технологии:** TypeScript, Node.JS, REST API
-- **Цель:** Автоматизация рутинных задач для стримеров
-- **Статус:** 🟢 Активная разработка
-
----
-
-<h2 align="center">「 связь 」 – Как меня найти </h2>
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/romasharper)
-
-</div>
-
----
-
-<h2 align="center">「 личное дело 」</h2>
-
-- Местоимения: он / его
-- Хобби: геройские шутеры от первого лица, программирование, эксперименты с новыми технологиями
-- Девиз: *«Я не хочу никаких неприятностей. Я просто хочу жить тихо. И чтобы код работал.»*
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RomaSharper&show_icons=true&theme=red&hide_border=true" style="border-radius:12px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaSharper&layout=compact&theme=red&hide_border=true" style="border-radius:12px"/>
-
-<br><br>
-
-*«Я – самый спокойный человек в этом мире... но не трогай мой код.»*
+*Код, который работает. Без лишнего шума.*
 
 </div>
