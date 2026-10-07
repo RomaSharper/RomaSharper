@@ -42,7 +42,7 @@
 
 ## Проекты
 
-### Sharpy
+### [Sharpy](https://sharpichka.ru)
 Сервис заказа музыки для стримеров с интеграцией Twitch.  
 **Стек:** TypeScript, Node.js, React, TRPC, REST API  
 **Статус:** в активной разработке  
